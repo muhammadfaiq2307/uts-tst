@@ -14,5 +14,5 @@
   username, password : asdf
 </p>
 <p>
-  catatan : disini saya commit dan push dari laptop bapak sehingga nama authornya Eko Marsudi Utomo
+  catatan : disini saya commit dan push dari laptop bapak sehingga nama authornya Eko Marsudi Utomo (nama user di laptop bapak saya)
 </p>
