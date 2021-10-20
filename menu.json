@@ -1,0 +1,16 @@
+{
+    "menu": [
+        {
+            "id": 1,
+            "name": "roti"
+        },
+        {
+            "id": 2,
+            "name": "daging"
+        },
+        {
+            "id": 3,
+            "name": "buah"
+        }
+    ]
+}
