@@ -108,13 +108,6 @@ async def token(form_data: OAuth2PasswordRequestForm = Depends()):
         "token_type" : "bearer"
     }
 
-# Root path landing
-@app.get("/")
-def root():
-    return {
-        "status" : "Server is up and running on port 8000",
-        "Message" : "Please proceed to https://api-authentication-18219113.herokuapp.com/docs for API details"
-        }
 
 # READ data
 
